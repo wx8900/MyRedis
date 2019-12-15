@@ -1,0 +1,10 @@
+<bean id="jedisPool" class="redis.clients.jedis.JedisPool">
+    <constructor-arg index="0" ref="jedisPoolConfig" />
+    <constructor-arg index="1" value="hostname.redislabs.com" />
+    <constructor-arg index="2" value="6379" />
+    <constructor-arg index="3" value="Protocol.DEFAULT_TIMEOUT" />
+    <constructor-arg index="4" value="password" />
+</bean>
+
+<bean id="jedisPoolConfig" class="redis.clients.jedis.JedisPoolConfig" >
+</bean>

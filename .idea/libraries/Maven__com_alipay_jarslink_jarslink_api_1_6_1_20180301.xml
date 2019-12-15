@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alipay.jarslink:jarslink-api:1.6.1.20180301">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/jarslink/jarslink-api/1.6.1.20180301/jarslink-api-1.6.1.20180301.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/jarslink/jarslink-api/1.6.1.20180301/jarslink-api-1.6.1.20180301-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alipay/jarslink/jarslink-api/1.6.1.20180301/jarslink-api-1.6.1.20180301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
